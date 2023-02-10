@@ -1,0 +1,13 @@
+The project is a data table with the following fields: Name, surname, phone number and address. 
+The console application enables the user by entering the appropriate code to add a new contact 
+with the appropriate fields, delete the contact's data, change the value of any field of the contact, 
+extract all the contacts matching a certain value of any field and, of course, see the list of all 
+contacts in the form of a table. Table sizes are flexible: depending on the values contained in it,
+it can increase and decrease. The program does not allow entering wrong (in terms of type) values and 
+prompts accordingly. There is also a limit on the number of imported symbols (maximum 30 symbols). 
+When there is more than one contact with a given value in the table, the program identifies the contact 
+using the other fields before taking any action. The complete matching of contacts makes the uniqueness 
+of phone numbers impossible.
+An ordinary text file is used as a data store.
+The project is continuously updated and functionality is added.
+To be continued․․․
