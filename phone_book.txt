@@ -1,0 +1,21 @@
+name : Hasmik|   surname : Avagyan|   phone_number : 456|   address : Vayq|
+name : Ani|   surname : Arsenyan|   phone_number : 89654|   address : Jermuk|
+name : Arsen|   surname : Davtyan|   phone_number : 096548754|   address : Ararat 15|
+name : Gevorg|   surname : Tsaturyan|   phone_number : 098456478|   address : Areni|
+name : Amalya|   surname : Karapetyan|   phone_number : 099856547|   address : Ajapnyak|
+name : Armine|   surname : Karapetyan|   phone_number : 123|   address : Halabyan 5/8|
+name : Sona|   surname : Khanamiryan|   phone_number : 124587|   address : Gyumri|
+name : Mari|   surname : Harutyunyan|   phone_number : 4569874563|   address : Areni 18-20|
+name : Hovsep|   surname : Mamikonyan|   phone_number : 111111|   address : komitas|
+name : Karen|   surname : Serobyan|   phone_number : 123456|   address : lala|
+name : Araqs|   surname : Khachatryan|   phone_number : 096977775|   address : Yerevan|
+name : Roman|   surname : Baghdasaryan|   phone_number : 093193947|   address : Yerevan 12/8|
+name : Sona|   surname : Avagyan|   phone_number : 0965456987|   address : Areni 18/20|
+name : Nane|   surname : Ghazaryan|   phone_number : 036565471456|   address : Yerevan 15|
+name : Sona|   surname : Karapetyan|   phone_number : 012321456|   address : Areni|
+name : Ararat|   surname : Balyan|   phone_number : 1230124|   address : Areni|
+name : Arman|   surname : Karapetyan|   phone_number : 2532654|   address : Areni|
+name : Davit|   surname : Harutyunyan|   phone_number : 044312144|   address : Areni|
+name : Karen|   surname : Antonyan|   phone_number : 023564|   address : Sisian|
+name : Anna|   surname : Araqelyan|   phone_number : 023145|   address : Yerevan|
+name : Hovhannes|   surname : Baghramyan|   phone_number : 036215421|   address : Yerevan 24|
